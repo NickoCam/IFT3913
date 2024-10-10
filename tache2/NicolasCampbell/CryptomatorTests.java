@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-// Mock classes to simulate the behavior of VaultManager and FileManager
+// Mock classes
 class VaultManager {
     private Map<String, String> vaults = new HashMap<>();
     
